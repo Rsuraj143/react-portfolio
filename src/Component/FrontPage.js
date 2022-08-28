@@ -14,7 +14,6 @@ export const FrontPage = () => {
         <div className="content">
           <p>Hi, I Am Rauda Suraj</p>
           <h1>React Develoer</h1>
-          <h1>hellow</h1>
           <div>
             <Link to="/project" className="btn">Project</Link>
             <Link to="contact" className="btn-light">Contact</Link>
